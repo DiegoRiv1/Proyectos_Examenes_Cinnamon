@@ -1,0 +1,13 @@
+CinemaTracker
+Fecha y hora:
+06/06/2023 16:57:19
+--------------
+Productos:
+Combo23 - $234.0
+M&M's - $34.0
+M&M's - $34.0
+M&M's - $34.0
+--------------
+Total a pagar: $336.0
+Monto pagado: $400.0
+Cambio: $64.0

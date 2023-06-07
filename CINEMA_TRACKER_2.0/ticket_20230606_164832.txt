@@ -1,0 +1,10 @@
+CinemaTracker
+Fecha y hora: 06/06/2023 16:48:32
+--------------
+Productos:
+Combo 1 - $456.0
+Combo 3 - $34.0
+--------------
+Total a pagar: $490.0
+Monto pagado: $500.0
+Cambio: $10.0

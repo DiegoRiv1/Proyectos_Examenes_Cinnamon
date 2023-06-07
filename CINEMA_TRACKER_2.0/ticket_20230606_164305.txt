@@ -1,0 +1,9 @@
+CinemaTracker
+--------------
+Productos:
+combo 1 - $213.0
+combo 1 - $213.0
+--------------
+Total a pagar: $426.0
+Monto pagado: $500.0
+Cambio: $74.0

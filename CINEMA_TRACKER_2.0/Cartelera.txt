@@ -1,0 +1,7 @@
+Lista de películas:
+Nombre: Nemo
+Género: animacion
+Clasificación: AA
+Idioma: ESP
+Duración: 145 minutos
+--------------------

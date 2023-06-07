@@ -1,0 +1,11 @@
+CinemaTracker
+Fecha y hora:
+07/06/2023 13:59:46
+--------------
+Productos:
+Palomitas - $80.0
+Soda - $40.0
+--------------
+Total a pagar: $120.0
+Monto pagado: $200.0
+Cambio: $80.0

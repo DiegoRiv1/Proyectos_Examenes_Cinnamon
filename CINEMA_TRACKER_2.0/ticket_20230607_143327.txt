@@ -1,0 +1,12 @@
+CinemaTracker
+Fecha y hora:
+07/06/2023 14:33:27
+--------------
+Productos:
+Palomitas - $80.0
+M&M's - $34.0
+Palomitas - $80.0
+--------------
+Total a pagar: $194.0
+Monto pagado: $200.0
+Cambio: $6.0

@@ -1,0 +1,11 @@
+CinemaTracker
+Fecha y hora:
+07/06/2023 13:18:58
+--------------
+Productos:
+Combo 3 - $200.0
+Soda - $40.0
+--------------
+Total a pagar: $240.0
+Monto pagado: $300.0
+Cambio: $60.0

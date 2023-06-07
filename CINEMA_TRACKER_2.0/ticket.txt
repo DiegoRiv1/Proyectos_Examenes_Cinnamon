@@ -1,0 +1,7 @@
+Ticket de compra
+----------------
+Fecha y hora:
+2023-06-07 14:30:55
+Sala: 1
+Asiento: D3
+Total a pagar: 70.0
